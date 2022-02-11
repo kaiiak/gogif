@@ -1,0 +1,2 @@
+# gogif
+golang gif encoder
